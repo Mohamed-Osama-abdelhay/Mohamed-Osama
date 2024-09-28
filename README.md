@@ -12,15 +12,15 @@
 <h3> 👩🏻‍💻 About Me </h3>
   
 - 👩🏻‍🎓 I’m studying Computer Science at Ain Shams University, **Cairo**.  </br>
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing hardware solutions.
 - 🏡 Lives in Cairo, Egypt (🇪🇬).
 - Problem Solving Skills.
   
 <h3>🛠 Tech Stack </h3>
 
 
-- 💻 &nbsp; C++ |  Java  
-- 🔧 &nbsp; Visual Studio code |  Git
+- 💻 &nbsp; C++ |  Java  |  C  | Arduino C |  Python | Rust |
+- 🔧 &nbsp; Visual Studio code |  NetBeans |  Arduino IDE  | Atmel studio | PyCharm |  
 
 
   
@@ -30,6 +30,7 @@
    <a href="https://isocpp.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
    </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
    
     
 
